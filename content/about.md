@@ -1,25 +1,18 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "FEWiki"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "David y. Kay"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+If your experience in anything like mine, you wrote off the Flat Earth as a huge steaming pile of bunk when you first encountered it.
 
-Hugo makes use of a variety of open source projects including:
+But, somehow, someway, you made it back here. For me, it took at least three or four exposures before I realized that there was something to it.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Unfortunately, there's a lot of bad information out there, whether deliberate or accidental, so this website is my humble attempt to gather the most credible evidence and arguments in one place.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+My hope is that you will then use your own eyes, ears, reason, and intuition, in order to arrive at the truth.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Best of luck on your journey,  
+[David Y. Kay](//www.davidykay.com)
