@@ -1,4 +1,4 @@
 [submodule "themes/hugo-clarity"]
 	path = themes/hugo-clarity
-  url = git@github.com:TheFlatEarth101/hugo-clarity.git
+  url = https://github.com/TheFlatEarth101/hugo-clarity.git
 
