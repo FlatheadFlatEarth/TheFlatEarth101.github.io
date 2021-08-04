@@ -3,7 +3,7 @@ title: "Local Sun"
 date: 2021-08-03T17:52:00-07:00
 description: "An overview of the local Sun on the Flat Earth."
 featured: false
-draft: true
+draft: false
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
