@@ -485,3 +485,8 @@ Arctic temperatures ranged from approximately -35C to 0C.
 What could cause this?
 
 Many Flat Earthers believe that this difference is caused by Antarctica/the "South Pole" being further from the Sun than the North Pole, and thus, further from the warming rays of the Sun.
+
+### Resources
+
+* [Source code](https://github.com/TheFlatEarth101/ARCSS-SAT-analysis) for this analysis. 
+* [CSV of north vs south pole data](https://github.com/TheFlatEarth101/ARCSS-SAT-analysis/raw/master/out/temperature_data.csv), extracted from ARCSS-SAT dataset.
