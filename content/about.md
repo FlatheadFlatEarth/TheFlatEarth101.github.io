@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "FEWiki"
-date = "2019-02-28"
+date = "2021-08-03"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "David y. Kay"
 +++
