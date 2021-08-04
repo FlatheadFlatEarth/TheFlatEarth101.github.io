@@ -1,8 +1,9 @@
---- title: "Local Sun" # Title of the blog post.
-date: 2021-08-01T21:13:52-07:00 # Date of post creation.
-description: "An overview of the local Sun on the Flat Earth." # Description used for search engine.
-featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: false # Sets whether to render this page. Draft of true will not be rendered.
+---
+title: "Local Sun"
+date: 2021-08-03T17:52:00-07:00
+description: "An overview of the local Sun on the Flat Earth."
+featured: false
+draft: true
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
@@ -17,15 +18,16 @@ tags:
   - Astronomy
   - Cosmology
   - Weather
-# comment: false # Disable comment if false.
+# comment: false 
 ---
 
 ## The Sun's Path
 
-{{< figure src="/images/sun/tropics.jpg" title="" >}}
-[Photo Credit: Ashlee Webster](https://flatgeocentricearth.wordpress.com/2015/12/03/seasons-on-the-flat-earth-2/)
-
 On a Flat Earth, the Sun is much nearer to Earth and much smaller than in the heliocentric model. Numbers vary, but it seems that the Sun is much closer than the 93 million miles embraced by the heliocentric model. The Sun follows a circular path above the Earth, tracing the line of the Equator during the equinoxes, the Tropic of Cancer during the Summer Solstice (in the northern hemisphere), and the Tropic of Capricorn during the Winter Solstice.
+
+{{< figure src="/images/sun/tropics.jpg" title="" >}}
+
+[Photo Credit: Ashlee Webster](https://flatgeocentricearth.wordpress.com/2015/12/03/seasons-on-the-flat-earth-2/)
 
 This leads to the seasons. Depending on the time of year, the Sun will be more or less proximate to different areas on the Earth. The closer the Sun, the warmer it will be. The further, the colder.
 
@@ -283,7 +285,7 @@ Official temperatures from the Amundsen–Scott South Pole Station, sourced from
 <td style="background: #000026; color:#FFFFFF; border-left-width:medium">−82.8<br />(−117.0)
 </td></tr>
 <tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)
+<th scope="row" style="height: 16px;">Average <a href="http://wikipedia.org/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)
 </th>
 <td style="background: #FEFEFF; color:#000000;">0.3<br />(0.01)
 </td>
@@ -399,7 +401,7 @@ Official temperatures from the Amundsen–Scott South Pole Station, sourced from
 <td style="background: #2A2AFF; color:#FFFFFF; border-left-width:medium">203.0
 </td></tr>
 <tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a>
+<th scope="row" style="height: 16px;">Mean monthly <a href="http://wikipedia.org/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a>
 </th>
 <td style="background: #FFFF45; color:#000000;">406.1
 </td>
@@ -428,7 +430,7 @@ Official temperatures from the Amundsen–Scott South Pole Station, sourced from
 <td style="background: #DEDE00; color:#000000; border-left-width:medium">2,698.2
 </td></tr>
 <tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Mean daily <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a>
+<th scope="row" style="height: 16px;">Mean daily <a href="http://wikipedia.org/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a>
 </th>
 <td style="background: #FFFF48; color:#000000;">13.1
 </td>
@@ -457,10 +459,11 @@ Official temperatures from the Amundsen–Scott South Pole Station, sourced from
 <td style="background: #DFDF00; color:#000000; border-left-width:medium">7.4
 </td></tr>
 <tr>
-<td colspan="14" style="text-align:center;font-size:95%;">Source 1: Pogoda.ru.net (temperatures, 1981–2010, extremes 1957–present)<sup id="cite_ref-pogoda_28-0" class="reference"><a href="#cite_note-pogoda-28">&#91;28&#93;</a></sup>
+<td colspan="14" style="text-align:center;font-size:95%;">Source 1: Pogoda.ru.net (temperatures, 1981–2010, extremes 1957–present)<sup id="cite_ref-pogoda_28-0" class="reference"><a href="
+https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station#cite_note-pogoda-28">&#91;28&#93;</a></sup>
 </td></tr>
 <tr>
-<td colspan="14" style="text-align:center;font-size:95%;">Source 2: <a href="/wiki/Deutscher_Wetterdienst" title="Deutscher Wetterdienst">Deutscher Wetterdienst</a> (Precipitation 1957–1988 and Sun 1978–1993),<sup id="cite_ref-DWD_29-0" class="reference"><a href="#cite_note-DWD-29">&#91;29&#93;</a></sup> NOAA (snowy days and snowfall data, 1961–1988)<sup id="cite_ref-NOAA_30-0" class="reference"><a href="#cite_note-NOAA-30">&#91;30&#93;</a></sup>
+<td colspan="14" style="text-align:center;font-size:95%;">Source 2: <a href="http://wikipedia.org/wiki/Deutscher_Wetterdienst" title="Deutscher Wetterdienst">Deutscher Wetterdienst</a> (Precipitation 1957–1988 and Sun 1978–1993),<sup id="cite_ref-DWD_29-0" class="reference"><a href="https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station#cite_note-DWD-29">&#91;29&#93;</a></sup> NOAA (snowy days and snowfall data, 1961–1988)<sup id="cite_ref-NOAA_30-0" class="reference"><a href="https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station#cite_note-NOAA-30">&#91;30&#93;</a></sup>
 </td></tr></tbody></table>
 
 ### Arctic Temperatures
@@ -478,4 +481,6 @@ Relative coldness aside, you will see that the temperatures at the Northern Pola
 Antarctic temperatures ranged from approximately -58C to -24C.
 Arctic temperatures ranged from approximately -35C to 0C.
 
-Most Flat Earthers believe that this difference is caused by Antarctica being further from the Sun than the North Pole, and thus, further from the warming rays of the Sun.
+What could cause this?
+
+Many Flat Earthers believe that this difference is caused by Antarctica/the "South Pole" being further from the Sun than the North Pole, and thus, further from the warming rays of the Sun.
