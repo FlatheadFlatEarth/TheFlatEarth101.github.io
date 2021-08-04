@@ -6,8 +6,8 @@ featured: false
 draft: false
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
-featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
-thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
+featureImage: "/images/sun/shining-sun.jpg" # Sets featured image on blog post.
+thumbnail: "/images/sun/shining-sun.jpg" # Sets thumbnail image appearing inside card on homepage.
 shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
 codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
@@ -21,11 +21,12 @@ tags:
 # comment: false 
 ---
 
+
 ## The Sun's Path
 
 On a Flat Earth, the Sun is much nearer to Earth and much smaller than in the heliocentric model. Numbers vary, but it seems that the Sun is much closer than the 93 million miles embraced by the heliocentric model. The Sun follows a circular path above the Earth, tracing the line of the Equator during the equinoxes, the Tropic of Cancer during the Summer Solstice (in the northern hemisphere), and the Tropic of Capricorn during the Winter Solstice.
 
-{{< figure src="/images/sun/tropics.jpg" title="" >}}
+{{< figure src="/images/sun/tropics.jpg" title="" width=600 >}}
 
 [Photo Credit: Ashlee Webster](https://flatgeocentricearth.wordpress.com/2015/12/03/seasons-on-the-flat-earth-2/)
 
@@ -43,7 +44,7 @@ As the Sun flies towards and then past you, you will perceive the day as passing
 
 When the Sun is far enough away, you will no longer be lit and warmed by its rays, and darkness will fall upon you.
 
-{{< figure src="/images/sun/local-sun.jpg" title="" >}}
+{{< figure src="/images/sun/local-sun.jpg" title="" width=600 >}}
 [Photo Credit](https://www.urbangardeninglimburg.nl/flat-earth-map-sun-and-moon/s)
 
 ### Light Propagation
@@ -56,7 +57,7 @@ The same way that your headlights can't penetrate through fog, the Sun can only 
 
 When its rays stop penetrating the atmosphere, the land beyond its range is shrouded in darkness.
 
-{{< figure src="/images/physics/light-prop/smoke-flashlight.jpg" title="" >}}
+{{< figure src="/images/physics/light-prop/smoke-flashlight.jpg" title="" width=700 >}}
 
 This same effect can be replicated at home using a flashlight and a variety of atmospheric conditions.
 
