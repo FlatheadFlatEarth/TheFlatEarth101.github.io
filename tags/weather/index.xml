@@ -420,4 +420,9 @@ https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station#cite_not
 &lt;p>Antarctic temperatures ranged from approximately -58C to -24C.
 Arctic temperatures ranged from approximately -35C to 0C.&lt;/p>
 &lt;p>What could cause this?&lt;/p>
-&lt;p>Many Flat Earthers believe that this difference is caused by Antarctica/the &amp;quot;South Pole&amp;quot; being further from the Sun than the North Pole, and thus, further from the warming rays of the Sun.&lt;/p></description></item></channel></rss>
+&lt;p>Many Flat Earthers believe that this difference is caused by Antarctica/the &amp;quot;South Pole&amp;quot; being further from the Sun than the North Pole, and thus, further from the warming rays of the Sun.&lt;/p>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/TheFlatEarth101/ARCSS-SAT-analysis">Source code&lt;/a> for this analysis.&lt;/li>
+&lt;li>&lt;a href="https://github.com/TheFlatEarth101/ARCSS-SAT-analysis/raw/master/out/temperature_data.csv">CSV of north vs south pole data&lt;/a>, extracted from ARCSS-SAT dataset.&lt;/li>
+&lt;/ul></description></item></channel></rss>
