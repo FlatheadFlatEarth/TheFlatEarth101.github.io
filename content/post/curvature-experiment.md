@@ -21,12 +21,20 @@ tags:
 # comment: false # Disable comment if false.
 ---
 
-**Insert Lead paragraph here.**
-
 ## Curvature Formula
 ## Bedford Level
 ## Atmospheric Refraction
 ## Laser Experiment
+
+https://fecore.org/final-results-fecore-measurements-disprove-the-wgs84-model-by-proving-flat-lake-surface/
+
+https://fecore.org/project/laser-experiment/
+
+## Surveying Tools
+
+https://fecore.org/project/force-the-level/
+https://fecore.org/fecore-force-the-level-pre-test-results/
+
 ## Shoot the Gap
 
 There have also been discussions of performing this experiment in physical space
