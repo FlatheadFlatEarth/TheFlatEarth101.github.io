@@ -22,6 +22,28 @@ tags:
 ---
 
 ## Curvature Formula
+
+The officially-stated curvature of the Earth is very drastic, stating that we should observe an object in the distance sink down by approximately: [distance in miles]^2 * eight inches. This rule-of-thumb is accurate until about 100 miles or so, at which point real trigonometry is recommended.
+9m
+Yes, the effect is lessened by being at a higher altitude, and this can be accounted for. That said, if you spend some time with the numbers, you will quickly find that the Earth that you see with your naked eye, seems to be much less curved than the official figures suggest.
+
+
+This image shows a table of how much the observed object should be reduced in height by the curvature at the Earth, depending on its distance from the observer.
+
+According to the creator, they did it with 15 digits of precision in AutoCAD, assuming the Earth to be a perfect sphere. 
+
+Wikipedia tells us that the Earth's radius is 3963 miles at the equator, 3949 miles at the poles (nevermind how those measurements were collected), and 3959 miles radius average.
+
+There are also calculators available online that I have verified by hand using trigonometry.
+
+This one is a simpler one:
+
+https://earthcurvature.com/
+
+While this one allows the user to account for his/her height at time of observation:
+
+https://dizzib.github.io/earth/curve-calc/?d0=7&h0=0.5&unit=imperial
+
 ## Bedford Level
 ## Atmospheric Refraction
 ## Laser Experiment

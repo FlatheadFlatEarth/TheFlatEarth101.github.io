@@ -21,6 +21,10 @@ tags:
 # comment: false 
 ---
 
+TODO:
+
+* Why does it seem
+* Hot spots - explain why it's consistent with a local sun
 
 ## The Sun's Path
 
@@ -49,7 +53,7 @@ When the Sun is far enough away, you will no longer be lit and warmed by its ray
 
 ### Light Propagation
 
-One common argument against the Local Sun is that, "the entire Earth should all be daytime at once."
+One common argument against the Local Sun is that, even with a smaller sun, "the entire Earth should all be daytime at once, because there would be nothing to block the Sun's rays."
 
 However, this is not true. Both globe scientists and Flat Earthers agree that light has a limited ability to penetrate through the atmosphere.
 
@@ -80,11 +84,26 @@ Next time that you are looking out at the ocean, pay attention to the surface of
 {{< figure src="/images/sun/sun-over-ocean-afternoon.jpg" title="" >}}
 <a href="https://www.flickr.com/photos/9233484@N08/2939137116">"Ocean Afternoon"</a><span> by <a href="https://www.flickr.com/photos/9233484@N08">microwavenby</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 2.0</a><a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=c840b4fe-1cda-4eab-a6d2-e5f17812a341" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
 
-Is this consistent with an object sitting at 90+ million miles away?
+If the sun is a spherical furnace sitting at 90+ million miles away, casting a huge amount of light and heat in every direction, we should 
+
+In the heliocentric model, the explanation for this is that the hot spot corresponds with the perfectly parallel position on the sphere
+
+
+
+If the sun is a spherical furnace sitting at 90+ million miles away, casting a huge amount of light and heat in every direction, we should 
 
 Or is this consistent with a local Sun?
 
 ## Fan-out of rays through the clouds
+
+
+TODO: Show parallel vs crepuscular example
+
+Crepuscular Rays
+
+Would be parallel
+
+{{< youtube b_ppPXChyTo >}}
 
 You've likely also seen the Sun's rays fanning out as they pass through the clouds.
 
@@ -95,6 +114,11 @@ You've likely also seen the Sun's rays fanning out as they pass through the clou
 Is this a dramatic refractive effect, causing the 90-million-mile-away Sun's nearly-parallel rays to drastically alter their paths, shooting outwards?
 
 Or is this more consistent with a local Sun, whose diverging rays are being highlit by passing through the haze of the atmosphere?
+
+## Sunset
+
+### Perspective
+### 
 
 ## Large Discrepancy Between Arctic and Antarctic Temperatures
 

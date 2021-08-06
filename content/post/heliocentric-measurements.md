@@ -33,3 +33,10 @@ Michelson/Garle
 Sagnac Experiment
 Bedford Level Experment
 
+## Crisis in Cosmology
+
+{{< youtube ZhzELtLmsCA >}}
+
+## How does NASA measure at a hundred quadrillion light years?
+
+https://aplanetruth.info/a-measure-stars-a-hundred-million-quadrillion-miles-away/

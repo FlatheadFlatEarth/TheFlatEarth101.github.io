@@ -28,3 +28,13 @@ Einstein's great contribution, as best I can tell, was to fill the void left fro
 In experiments it was observed that the speed of light was always c in all directions. The dragged ether was denied and therefore the only possible form of ether left was the absolute ether. Because the Earth in her path around the Sun cannot always be at rest with the absolute ether there must be a physical process explaining why the Earth appears to be at rest with the absolute ether. The drag factor of Fresnel was a possible explanation."
 
 - [Citation](https://paradox-paradigm.nl/preface/the-drag-coefficient-of-fresnel/)
+
+
+Tesla described relativity as "a beggar wrapped in purple whom ignorant people take for a king." 
+
+The theory of relativity he described as "a mass of error and deceptive ideas violently opposed to the teachings of great men of science of the past and even to common sense."
+
+"The theory, "he said, "wraps all these errors and fallacies and clothes them in magnificent mathematical garb which fascinates, dazzles and makes people blind to the underlying errors. The theory is like a beggar clothed in purple whom ignorant people take for a king. Its exponents are very brilliant men, but they are metaphysicists rather than scientists. Not a single one of the relativity propositions has been proved."
+
+
+
